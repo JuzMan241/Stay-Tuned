@@ -5,32 +5,19 @@ In the front of the hedge maze, a sign reads, "Beware the small dogs, for they a
   
 
 Roll 5d13, including: 
+1. [[1 - Teresa Pei]]
+2. [[5 - Naissana]]
+3. [[21 - Nexa Duskryn]]
+4. [[25 - Billy Sunshine “Colmax Xadowblayde”]]
+5. [[31 - Ayajel]]
+6. [[39 - Wang Xiao]]
+7. [[43 - Erarith “Era” Kenep]] 
+8. [[45 - (Di) Mark of Secrets]]
+9. [[28 - Anassanna]]
+10. [[30 - (Nik) Nicky]]
+11. [[34 - Alice Black]]
+12. [[36 - Allen Vix]] (Day 1)
+13. [[50 - Ardorim Myurrhaanshtalod]]
 
-1.  1. Teresa Pei 
-    
-2.  5. Naisanna 
-    
-3.  21. Nexa Duskryn 
-    
-4.  25. Billy Sunshine 
-    
-5.  31. Ayajel 
-    
-6.  39. Wang Xiao 
-    
-7.  43. Erarith "Era" Kenep 
-    
-8.  45. Mark of Secrets
-    
-9.  28.Anassanna 
-    
-10.  30.Nik 
-    
-11.  34.Alice 
-    
-12.  36.Allen(Day 1) 
-    
-13.  50.Ardorim
-    
 
   
