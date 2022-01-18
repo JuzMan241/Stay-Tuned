@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Right Patio.md",
-            "mode": "source"
+            "file": "Dance at Death's Door.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Right Patio.md",
+                "file": "Dance at Death's Door.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,20 +102,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Right Patio.md"
+                "file": "Dance at Death's Door.md"
               }
             }
-          },
-          {
-            "id": "9d341d7fa756ce89",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,15 +114,15 @@
   },
   "active": "c1e86689bd00601a",
   "lastOpenFiles": [
-    "The Right Patio.md",
+    "Dance at Death's Door.md",
     "The Elanor Estate.md",
+    "The Right Patio.md",
     "The Left Patio.md",
     "The Hedge Maze.md",
     "The Gardens.md",
     "27 - Kuyoko “Kuyo” Shinimiya.md",
     "The Library & Basement Lounge.md",
     "The Ballroom.md",
-    "The Elanor Estate Rooms.md",
-    "The Lab & Alchemy Workshop.md"
+    "The Elanor Estate Rooms.md"
   ]
 }
