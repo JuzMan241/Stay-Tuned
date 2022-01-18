@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Left Patio.md",
-            "mode": "preview"
+            "file": "The Right Patio.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Left Patio.md",
+                "file": "The Right Patio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Left Patio.md"
+                "file": "The Right Patio.md"
               }
             }
           },
@@ -123,15 +123,15 @@
   },
   "active": "c1e86689bd00601a",
   "lastOpenFiles": [
-    "The Left Patio.md",
+    "The Right Patio.md",
     "The Elanor Estate.md",
+    "The Left Patio.md",
     "The Hedge Maze.md",
     "The Gardens.md",
     "27 - Kuyoko “Kuyo” Shinimiya.md",
     "The Library & Basement Lounge.md",
     "The Ballroom.md",
     "The Elanor Estate Rooms.md",
-    "The Lab & Alchemy Workshop.md",
-    "32 - Lyari.md"
+    "The Lab & Alchemy Workshop.md"
   ]
 }

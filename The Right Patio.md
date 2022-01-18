@@ -5,28 +5,17 @@ This patio has a map on one of the posts. Has a couch, and a few chairs for loun
   
 
 Roll 5d11, including: 
-
-1.  27. Kuyoko "Kuyo" Shinimiya 
-    
-2.  29. Sheila "Sparkles" Castmaker 
-    
-3.  31. Ayajel 
-    
-4.  35. Valenor Illamaiya 
-    
-5.  39. Wang Xiao 
-    
-6.  43. Erarith "Era" Kenep 
-    
-7.  45. Mark of Secrets
-    
-8.  28.Anassanna 
-    
-9.  4.Alice(Rarely) 
-    
-10.  38.Klialtakmardoth 
-    
-11.  46.Adam
+Kuyoko "Kuyo" Shinimiya 
+Sheila "Sparkles" Castmaker 
+Ayajel 
+Valenor Illamaiya 
+Wang Xiao 
+Erarith "Era" Kenep 
+Mark of Secrets
+Anassanna 
+Alice(Rarely) 
+Klialtakmardoth 
+Adam
     
 
   
