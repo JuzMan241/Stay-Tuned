@@ -11,7 +11,7 @@ Roll 5d23, including:
 4. [[19 - Caillane Crystal]] 
 5. [[21 - Nexa Duskryn]]
 6. [[25 - Billy Sunshine “Colmax Xadowblayde”]]
-7. [[Kuyoko "Kuyo" Shinimiya]]
+7. [[27 - Kuyoko “Kuyo” Shinimiya]]
 8. [[29 - Sheila “Sparkles” Castmaker]] 
 9. [[31 - Ayajel]]
 10. [[39 - Wang Xiao]]
