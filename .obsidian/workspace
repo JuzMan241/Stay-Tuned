@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Elanor Estate.md",
+            "file": "The Gardens.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Elanor Estate.md",
+                "file": "The Gardens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Elanor Estate.md"
+                "file": "The Gardens.md"
               }
             }
           },
@@ -123,6 +123,7 @@
   },
   "active": "c1e86689bd00601a",
   "lastOpenFiles": [
+    "The Gardens.md",
     "The Elanor Estate.md",
     "The Library & Basement Lounge.md",
     "The Ballroom.md",
@@ -131,7 +132,6 @@
     "32 - Lyari.md",
     "The Lounges.md",
     "Right Bathhouse.md",
-    "Left Bathhouse.md",
-    "Untitled.md"
+    "Left Bathhouse.md"
   ]
 }

@@ -5,52 +5,30 @@ The entire garden is square, but there are four sections each with a winding pat
   
 
 Roll 5d23, including: 
+1. [[1 - Teresa Pei]] 
+2. [[5 - Naissana]]
+3. [[11 - Alex]]
+4. [[19 - Caillane Crystal]] 
+5. [[21 - Nexa Duskryn]]
+6. [[25 - Billy Sunshine “Colmax Xadowblayde”]]
+7. [[Kuyoko "Kuyo" Shinimiya]]
+8. [[29 - Sheila “Sparkles” Castmaker]] 
+9. [[31 - Ayajel]]
+10. [[39 - Wang Xiao]]
+11. [[43 - Erarith “Era” Kenep]] 
+12. [[45 - (Di) Mark of Secrets]]
+13. [[2 - Iorgar]] & [[3 - Sykkuno]] 
+14. [[6 - Lucky Break]]
+15. [[8 - Illa]]
+16. [[16 - Randy Valentine]]
+17. [[18 - Panaji Shasto]] (Rare)
+18. [[20 - Johnathan Wellington]] (Rare)
+19. [[22 - Aymur Fenzorym]]
+20. [[28 - Anassanna]]
+21. [[30 - (Nik) Nicky]]
+22. [[34 - Alice Black]]
+23. [[36 - Allen Vix]] (Day 1)
+24. [[38 - Klialtocmardoth]]
 
-1.  1. Teresa Pei 
-    
-2.  5. Naisanna 
-    
-3.  11. Alex 
-    
-4.  19. Caillane Crystal 
-    
-5.  21. Nexa Duskryn 
-    
-6.  25. Billy Sunshine 
-    
-7.  27. Kuyoko "Kuyo" Shinimiya 
-    
-8.  29. Sheila "Sparkles" Castmaker 
-    
-9.  31. Ayajel 39. Wang Xiao 
-    
-10.  43. Erarith "Era" Kenep 
-    
-11.  45. Mark of Secrets
-    
-12.  2.Iorgor / 3.Sykkuno 
-    
-13.  6.Lucky Break 
-    
-14.  8.Illa 
-    
-15.  16.Randy 
-    
-16.  18.Panaji(Rare) 
-    
-17.  20.Johnathan(Rare) 
-    
-18.  22.Aymur 
-    
-19.  28.Anassanna 
-    
-20.  30.Nik 
-    
-21.  34.Alice 
-    
-22.  36.Allen(Day 1) 
-    
-23.  38.Klialtakmardoth
-    
 
   
