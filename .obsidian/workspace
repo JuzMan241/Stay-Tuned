@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f86390b4af50d9f0",
+        "id": "c1e86689bd00601a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -121,7 +121,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f86390b4af50d9f0",
+  "active": "c1e86689bd00601a",
   "lastOpenFiles": [
     "The Elanor Estate.md",
     "The Library & Basement Lounge.md",
