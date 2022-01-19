@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dance at Death's Door.md",
-            "mode": "preview"
+            "file": "A Pill Away.md",
+            "mode": "source"
           }
         }
       }
@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dance at Death's Door.md",
+                "file": "A Pill Away.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dance at Death's Door.md"
+                "file": "A Pill Away.md"
               }
             }
           }
@@ -115,15 +115,15 @@
   },
   "active": "c1e86689bd00601a",
   "lastOpenFiles": [
+    "A Pill Away.md",
+    "Stay Tuned Home.md",
     "Dance at Death's Door.md",
+    "The Player’s Rooms (Legacy).md",
     "The Elanor Estate.md",
     "The Right Patio.md",
     "The Left Patio.md",
     "The Hedge Maze.md",
     "The Gardens.md",
-    "27 - Kuyoko “Kuyo” Shinimiya.md",
-    "The Library & Basement Lounge.md",
-    "The Ballroom.md",
-    "The Elanor Estate Rooms.md"
+    "27 - Kuyoko “Kuyo” Shinimiya.md"
   ]
 }
