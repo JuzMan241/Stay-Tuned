@@ -1,4 +1,4 @@
-# The Elanor Estate Rooms
+# The Elanor Estate Guest Rooms
 ---
 ## Room Number Table
 

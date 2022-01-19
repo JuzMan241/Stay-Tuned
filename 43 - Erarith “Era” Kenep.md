@@ -6,6 +6,8 @@ Drow
 
 21 ♂ - 26,76,40
 
+[[Room 7D]]
+
 5'10 dark skinned elf with long and wavy hair. Their eyes glow a golden orange, completing gold accents on their black trench coat and boots.
 
   

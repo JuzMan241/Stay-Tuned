@@ -4,7 +4,7 @@
 ## Estate Places
 
 ### Indoor Locations
-- #### [[The Elanor Estate Rooms]]
+- #### [[The Elanor Estate Guest Rooms]]
 - [[The Ballroom]]
 - [[The Main Dining Room]]
 - [[Left Bathhouse]]
