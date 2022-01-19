@@ -236,7 +236,7 @@ On Day 2, Milo Vix's quest "Missing Man" begins. The players can start the quest
 
 ### [[Tour of the Underworld]] [(Google)](https://docs.google.com/document/d/1qSTaEZttZ_PhqdD0GTumzRpcUCdLjTovNJ-OE1FS9Cg/edit#bookmark=id.r77890na34ur) 
 
-Today is also the day that Earth would begin with his testing of the drug. Today, should any players interact with him, he will now be much more sociable, and try inviting players to his room or some other secluded location. This would start the quest "Tour of the Underworld".
+Today is also the day that [[43 - Erarith “Era” Kenep|Erarith]] would begin with his testing of the drug. Today, should any players interact with him, he will now be much more sociable, and try inviting players to his room or some other secluded location. This would start the quest "[[Tour of the Underworld]]".
 
 
 ## The Third Day
