@@ -230,7 +230,7 @@ From here, nothing new happens on day 1. Should the players choose to explore th
 
 ### [[Missing Man]] [(Google)](https://docs.google.com/document/d/19Nd4bhUif4wMTRWc0uk1AzdesThkDUIebr3ON_ZaZn0/edit#bookmark=id.k8l6kab6vmzn) 
 
-On Day 2, Milo Vix's quest "Missing Man" begins. The players can start the quest by talking with Milo, and listening to her complaints about her husband's disappearance. For practically all of day 2, Milo will be spending a large majority of time in the main dining room, drinking a large sum of alcohol. The details of this quest can be found under "Missing Man" in smaller stories.
+On Day 2, [[37 - (Ada) Milo Vix|Milo]]'s quest "[[Missing Man]]" begins. The players can start the quest by talking with Milo, and listening to her complaints about her husband's disappearance. For practically all of day 2, [[37 - (Ada) Milo Vix|Milo]] will be spending a large majority of time in the main dining room, drinking a large sum of alcohol. The details of this quest can be found under "[[Missing Man]]" in [[Smaller Stories|smaller stories]].
 
   
 

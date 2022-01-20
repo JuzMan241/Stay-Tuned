@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sara Elanor.md",
+            "file": "Dance at Death's Door.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sara Elanor.md",
+                "file": "Dance at Death's Door.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sara Elanor.md"
+                "file": "Dance at Death's Door.md"
               }
             }
           }
@@ -116,13 +116,13 @@
   },
   "active": "c832516d58de6bb8",
   "lastOpenFiles": [
-    "Sara Elanor.md",
-    "3 - Sara Elanor.md",
-    "4 - Maxim Elanor.md",
     "Dance at Death's Door.md",
+    "The Elanor Estate.md",
+    "Sara Elanor.md",
+    "4 - Maxim Elanor.md",
+    "3 - Sara Elanor.md",
     "1 - Robert Elanor.md",
     "2 - Amy Elanor.md",
-    "The Elanor Estate.md",
     "The Barracks.md",
     "The Range.md",
     "The Gazebos.md"
