@@ -9,7 +9,7 @@
 ## Quests:
 - ### [[Smaller Stories]] [(Google)](https://docs.google.com/document/d/19Nd4bhUif4wMTRWc0uk1AzdesThkDUIebr3ON_ZaZn0/edit?usp=sharing)
 - ### [[The First Chapter]] [(Google)](https://docs.google.com/document/d/1w1_Dxpjs33z7D41exhS8eCW563Mef6KdXxPmVYJBVqQ/edit?usp=sharing)
-- ### [[Before the Dance]] [(Google)](https://docs.google.com/document/d/1EfLdmjkKCR6lwuu4nAdVBVe4fhEiyiZ8pTqVReygL4M/edit?usp=sharing)
+- ### [[Before the Dance (Legacy)]] [(Google)](https://docs.google.com/document/d/1EfLdmjkKCR6lwuu4nAdVBVe4fhEiyiZ8pTqVReygL4M/edit?usp=sharing)
 - ### [[Dance at Death's Door]] [(Google)](https://docs.google.com/document/d/1PMz2cV3N3Nbz5h0ehKqhqj6LAu-BMJU6PEZbCsM-PY8/edit?usp=sharing)
 - ### [[The Hangman]]
 - ### [[Trail of Blood]]
