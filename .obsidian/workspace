@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dance at Death's Door.md",
+            "file": "1 - Robert Elanor.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dance at Death's Door.md",
+                "file": "1 - Robert Elanor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dance at Death's Door.md"
+                "file": "1 - Robert Elanor.md"
               }
             }
           }
@@ -115,6 +115,7 @@
   },
   "active": "765ecfd72fed6709",
   "lastOpenFiles": [
+    "1 - Robert Elanor.md",
     "Dance at Death's Door.md",
     "The Elanor Estate.md",
     "The Barracks.md",
@@ -123,7 +124,6 @@
     "Right Campfire.md",
     "Left Campfire.md",
     "The Cliff.md",
-    "The Stables.md",
-    "Plaza Patios & The Plaza.md"
+    "The Stables.md"
   ]
 }
