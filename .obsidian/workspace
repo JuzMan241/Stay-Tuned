@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Cliff.md",
+            "file": "Left Campfire.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Cliff.md",
+                "file": "Left Campfire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Cliff.md"
+                "file": "Left Campfire.md"
               }
             }
           }
@@ -115,15 +115,15 @@
   },
   "active": "765ecfd72fed6709",
   "lastOpenFiles": [
-    "The Cliff.md",
+    "Left Campfire.md",
     "The Elanor Estate.md",
+    "The Cliff.md",
     "The Stables.md",
     "Plaza Patios & The Plaza.md",
     "The Horse Track.md",
     "Stay Tuned Home.md",
     "Memories.md",
     "A Pill Away.md",
-    "Tour of the Underworld.md",
-    "Dance at Death's Door.md"
+    "Tour of the Underworld.md"
   ]
 }
