@@ -5,44 +5,23 @@ In the range, targets are hoisted on trees without branches and various other me
   
 
 Roll 5d20, including: 
-
-1.  1. Teresa Pei 
-    
-2.  19. Caillane Crystal 
-    
-3.  25. Billy Sunshine 
-    
-4.  27. Kuyoko "Kuyo" Shinimiya 
-    
-5.  29. Sheila "Sparkles" Castmaker 
-    
-6.  39. Wang Xiao 
-    
-7.  43. Erarith "Era" Kenep 
-    
-8.  45. Mark of Secrets 
-    
-9.  49. Naomi
-    
-10.  6.Lucky Break
-    
-11.  8.Illa 
-    
-12.  10.Elena 
-    
-13.  14.Columbine 
-    
-14.  18.Panaji 
-    
-15.  20.John 
-    
-16.  22.Aymur 
-    
-17.  28.Anassanna 
-    
-18.  30.Nik 
-    
-19.  34.Alice 
-    
-20.  46.Adam
-    
+1. [[1 - Teresa Pei]] 
+2. [[19 - Caillane Crystal]]
+3. [[25 - Billy Sunshine “Colmax Xadowblayde”]]
+4. [[27 - Kuyoko “Kuyo” Shinimiya]]
+5. [[29 - Sheila “Sparkles” Castmaker]]
+6. [[39 - Wang Xiao]]
+7. [[43 - Erarith “Era” Kenep]] 
+8. [[45 - (Di) Mark of Secrets]]
+9. [[49 - Naomi]]
+10. [[6 - Lucky Break]]
+11. [[8 - Illa]]
+12. [[10 - Elena Phoenix]]
+13. [[14 - Columbine Ironfist]]
+14. [[18 - Panaji Shasto]]
+15. [[20 - Johnathan Wellington]]
+16. [[22 - Aymur Fenzorym]]
+17. [[28 - Anassanna]]
+18. [[30 - (Nik) Nicky]]
+19. [[34 - Alice Black]]
+20. [[46 - Adam Smith]]

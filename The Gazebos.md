@@ -9,40 +9,22 @@ Each gazebo has a map in it, held in a wooden display case hanging from one of t
   
 
 Roll 3d18 for these locations:
-
-1.  6.Lucky Break 
-    
-2.  8.Illa 
-    
-3.  10.Elena 
-    
-4.  14.Columbine 
-    
-5.  18.Panaji 
-    
-6.  20.John 
-    
-7.  22.Aymur 
-    
-8.  28.Anassanna 
-    
-9.  34.Alice 
-    
-10.  46.Adam
-    
-11.  1. Teresa Pei 
-    
-12.  5. Naisanna 
-    
-13.  21. Nexa Duskryn 
-    
-14.  25. Billy Sunshine 
-    
-15.  31. Ayajel 
-    
-16.  39. Wang Xiao 
-    
-17.  43. Erarith "Era" Kenep
-    
-18.  45. Mark of Secrets 
+[[6 - Lucky Break]]
+[[8 - Illa]]
+[[10 - Elena Phoenix]]
+[[14 - Columbine Ironfist]]
+[[18 - Panaji Shasto]]
+[[20 - Johnathan Wellington]]
+[[22 - Aymur Fenzorym]]
+[[28 - Anassanna]]
+[[34 - Alice Black]]
+[[46 - Adam Smith]]
+[[1 - Teresa Pei]]
+[[5 - Naissana]]
+[[21 - Nexa Duskryn]]
+[[25 - Billy Sunshine “Colmax Xadowblayde”]]
+[[31 - Ayajel]]
+[[39 - Wang Xiao]]
+[[43 - Erarith “Era” Kenep]]
+[[45 - (Di) Mark of Secrets]]
     
