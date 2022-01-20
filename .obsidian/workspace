@@ -4,20 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0c9ed92eeba8277d",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "b5dc89f219a1677b",
+        "id": "5355225a4d80652d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wild Encounters.md",
+            "file": "Stay Tuned Home.md",
             "mode": "preview"
           }
         }
@@ -86,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wild Encounters.md",
+                "file": "Stay Tuned Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wild Encounters.md"
+                "file": "Stay Tuned Home.md"
               }
             }
           }
@@ -122,8 +114,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b5dc89f219a1677b",
+  "active": "5355225a4d80652d",
   "lastOpenFiles": [
+    "Stay Tuned Home.md",
     "Wild Encounters.md",
     "1 - Stray Cat!.md",
     "The Elanor Estate.md",
@@ -132,7 +125,6 @@
     "3 - Sykkuno.md",
     "2 - Iorgar.md",
     "The Party List.md",
-    "8 - Illa.md",
-    "Dance at Death's Door.md"
+    "8 - Illa.md"
   ]
 }
