@@ -15,7 +15,7 @@ Some of the Elanor family have plans to sacrifice individuals on each day of the
 
 Kuyo and Allen Vix share conversation in the hedge maze before Kuyo leaves. Allen Vix is captured in the hedge maze, and taken to be killed in the sacrifice room. 
 
-Iorgar finds the hidden path in the hedge maze, and follows the tunnel after running ahead of Sykkuno. Sykkuno follows Iorgar, and overhears Iorgar being threatened and given the dancer's deal. This start's Sykunno's Deal Breaker quest line. 
+Iorgar finds the hidden path in the hedge maze, and follows the tunnel after running ahead of Sykkuno. Sykkuno follows Iorgar, and overhears Iorgar being threatened and given the dancer's deal. This starts Sykunno's "[[Deal Breaker]]" quest line. 
 
 The players are dropped off in the plaza, where they have an informative conversation with sebastian. Once the players are in the ballroom, (or at least most of them), the organizer of the party gives their speech, and the players are free to have fun at the resort.
 
@@ -45,7 +45,7 @@ Around midday, Kuyo would run into Johnathon and begin to trust him. He would th
 
 After Valenor is killed, Johnathon would seek extra help and inform the players and his party. 
 
-All the family members come home on day four, and they throw a large celebration for the new years upstairs
+All the family members come home on day four, and they throw a large celebration for the new years upstairs.
 
   
 
