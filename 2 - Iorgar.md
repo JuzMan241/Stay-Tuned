@@ -20,7 +20,7 @@ Likes shiny. Is shy around dragon-like creatures.
 
 "If you convince them to do it with a smile, they'll smile while they do it."
 
-  
+Related: [[3 - Sykkuno]]
 
 Quest(s):
 
