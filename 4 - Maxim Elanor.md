@@ -4,7 +4,9 @@ Gender: ♂
 
 Age: 37 
 
-Occupation: Minor diplomat of Bagus and the Elanor estate. Spouse: #3 (Sara Elanor) 
+Occupation: Minor diplomat of Retoria and the Elanor estate. 
+
+Spouse: [[Sara Elanor]]
 
 Other Associations: Occasionally helps manage the Elanor estate. Parents: 1&2 
 

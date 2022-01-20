@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "765ecfd72fed6709",
+        "id": "c832516d58de6bb8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 - Robert Elanor.md",
+            "file": "Sara Elanor.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Robert Elanor.md",
+                "file": "Sara Elanor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,27 +103,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Robert Elanor.md"
+                "file": "Sara Elanor.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "765ecfd72fed6709",
+  "active": "c832516d58de6bb8",
   "lastOpenFiles": [
-    "1 - Robert Elanor.md",
+    "Sara Elanor.md",
+    "3 - Sara Elanor.md",
+    "4 - Maxim Elanor.md",
     "Dance at Death's Door.md",
+    "1 - Robert Elanor.md",
+    "2 - Amy Elanor.md",
     "The Elanor Estate.md",
     "The Barracks.md",
     "The Range.md",
-    "The Gazebos.md",
-    "Right Campfire.md",
-    "Left Campfire.md",
-    "The Cliff.md",
-    "The Stables.md"
+    "The Gazebos.md"
   ]
 }

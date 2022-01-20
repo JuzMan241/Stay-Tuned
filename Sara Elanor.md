@@ -1,5 +1,7 @@
-##### Sara Elanor
+# Sara Elanor
+---
 
+## Stat Block
 STR-x 
 
 DEX-x 
@@ -31,5 +33,23 @@ Actions:
 Melee Attack-+x to hit, xdx+x y damage 
 
 Spell Attack-x to hit, xdx y damage (x/day)
+
+---
+
+## Biography
+
+Gender: ♀
+
+Age:38 
+
+Occupation: Minor Diplomat with [[4 - Maxim Elanor|Maxim]]
+
+Spouse: [[4 - Maxim Elanor]]
+
+Other Associations: Assists Sacrificial duties of Death's Door 
+
+Children: [[8 - Kevin (Junior) Elanor]], [[10 - Callum Elanor]], [[11 - Paul Elanor]] 
+
+Appearance: Wears dark green, fine clothes with a fluffy silver scarf. Faded Blond/gray Hair, Green Eyes.
 
   

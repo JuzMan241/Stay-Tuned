@@ -100,7 +100,7 @@ The trails outside are all lined with stylish tiki-torches, all about 20 ft apar
 - [[1 - Robert Elanor]]
 - [[2 - Amy Elanor]]
 #### Generation 2
-- [[3 - Sara Elanor]]
+- [[Sara Elanor]]
 - [[4 - Maxim Elanor]]
 - [[5 - Annnabell Elanor]]
 - [[6 - Aria Elanor]]
