@@ -22,6 +22,3 @@ Roll 8d16, including:
  14. [[10 - Elena Phoenix]]
  15. [[14 - Columbine Ironfist]]
  16. [[16 - Randy Valentine]]
-    
-
-  
