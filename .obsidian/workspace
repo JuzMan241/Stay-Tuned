@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Barracks.md",
+            "file": "Dance at Death's Door.md",
             "mode": "preview"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Barracks.md",
+                "file": "Dance at Death's Door.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Barracks.md"
+                "file": "Dance at Death's Door.md"
               }
             }
           }
@@ -115,15 +115,15 @@
   },
   "active": "765ecfd72fed6709",
   "lastOpenFiles": [
-    "The Barracks.md",
+    "Dance at Death's Door.md",
     "The Elanor Estate.md",
+    "The Barracks.md",
     "The Range.md",
     "The Gazebos.md",
     "Right Campfire.md",
     "Left Campfire.md",
     "The Cliff.md",
     "The Stables.md",
-    "Plaza Patios & The Plaza.md",
-    "The Horse Track.md"
+    "Plaza Patios & The Plaza.md"
   ]
 }
