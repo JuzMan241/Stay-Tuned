@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Left Campfire.md",
+            "file": "Right Campfire.md",
             "mode": "source"
           }
         }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Left Campfire.md",
+                "file": "Right Campfire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Left Campfire.md"
+                "file": "Right Campfire.md"
               }
             }
           }
@@ -115,15 +115,15 @@
   },
   "active": "765ecfd72fed6709",
   "lastOpenFiles": [
-    "Left Campfire.md",
+    "Right Campfire.md",
     "The Elanor Estate.md",
+    "Left Campfire.md",
     "The Cliff.md",
     "The Stables.md",
     "Plaza Patios & The Plaza.md",
     "The Horse Track.md",
     "Stay Tuned Home.md",
     "Memories.md",
-    "A Pill Away.md",
-    "Tour of the Underworld.md"
+    "A Pill Away.md"
   ]
 }
