@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Elanor Estate.md",
-            "mode": "preview"
+            "file": "The Cliff.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Elanor Estate.md",
+                "file": "The Cliff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Elanor Estate.md"
+                "file": "The Cliff.md"
               }
             }
           }
@@ -115,15 +115,15 @@
   },
   "active": "765ecfd72fed6709",
   "lastOpenFiles": [
+    "The Cliff.md",
     "The Elanor Estate.md",
-    "Plaza Patios & The Plaza.md",
     "The Stables.md",
+    "Plaza Patios & The Plaza.md",
+    "The Horse Track.md",
     "Stay Tuned Home.md",
     "Memories.md",
     "A Pill Away.md",
     "Tour of the Underworld.md",
-    "Dance at Death's Door.md",
-    "43 - Erarith “Era” Kenep.md",
-    "The Elanor Estate Guest Rooms.md"
+    "Dance at Death's Door.md"
   ]
 }

@@ -6,29 +6,15 @@ The trail is very clear cut and easy to follow (as well as being very scenic). T
 
 Roll 8d12, including: 
 
-1.  5. Naisanna 
-    
-2.  11. Alex 
-    
-3.  19. Caillane Crystal 
-    
-4.  21. Nexa Duskryn 
-    
-5.  27. Kuyoko "Kuyo" Shinimiya 
-    
-6.  29. Sheila "Sparkles" Castmaker
-    
-7.  6.Lucky 
-    
-8.  14.Columbine 
-    
-9.  20.John 
-    
-10.  28.Anassanna 
-    
-11.  34.Alice 
-    
-12.  46.Adam
-    
-
-  
+1. [[5 - Naissana]]
+2. [[11 - Alex]]
+3. [[19 - Caillane Crystal]]
+4. [[21 - Nexa Duskryn]]
+5. [[27 - Kuyoko “Kuyo” Shinimiya]]
+6. [[29 - Sheila “Sparkles” Castmaker]]
+7. [[6 - Lucky Break]]  
+ 8. [[14 - Columbine Ironfist]]   
+ 9. [[20 - Johnathan Wellington]]    
+ 10. [[28 - Anassanna]]    
+11. [[34 - Alice Black]] 
+ 12. [[46 - Adam Smith]]

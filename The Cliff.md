@@ -5,32 +5,19 @@ About 15 feet from the edge of the cliff, the top of a small hill has been flatt
   
 
 Roll 5d24, including: 
-
-1.  1. Teresa Pei 
-    
-2.  5. Naisanna 
-    
-3.  11. Alex 
-    
-4.  19. Caillane Crystal 
-    
-5.  21. Nexa Duskryn 
-    
-6.  25. Billy Sunshine 
-    
-7.  27. Kuyoko "Kuyo" Shinimiya 
-    
-8.  29. Sheila "Sparkles" Castmaker 
-    
-9.  31. Ayajel 
-    
-10.  39. Wang Xiao 
-    
-11.  43. Erarith "Era" Kenep 
-    
-12.  45. Mark of Secrets
-    
-13.  6. Lucky 
+1. [[1 - Teresa Pei]]
+2. [[5 - Naissana]]
+3. [[11 - Alex]]
+4. [[19 - Caillane Crystal]]
+5. [[21 - Nexa Duskryn]]
+6. [[25 - Billy Sunshine “Colmax Xadowblayde”]] 
+7. [[27 - Kuyoko “Kuyo” Shinimiya]]
+8. [[29 - Sheila “Sparkles” Castmaker]]
+9. [[31 - Ayajel]] 
+10. [[39 - Wang Xiao]]
+11. [[43 - Erarith “Era” Kenep]] 
+12. [[45 - (Di) Mark of Secrets]]
+13. [[6 - Lucky Break]]
     
 14.  8.Illa 
     
@@ -54,5 +41,22 @@ Roll 5d24, including:
     
 24.  50.Ardorim
     
-
+1. [[1 - Teresa Pei]]
+2. [[5 - Naissana]]
+3. [[11 - Alex]]
+4. [[19 - Caillane Crystal]]
+5. [[21 - Nexa Duskryn]]
+6. [[25 - Billy Sunshine “Colmax Xadowblayde”]] 
+7. [[27 - Kuyoko “Kuyo” Shinimiya]]
+8. [[29 - Sheila “Sparkles” Castmaker]]
+9. [[31 - Ayajel]] 
+10. [[39 - Wang Xiao]]
+11. [[43 - Erarith “Era” Kenep]] 
+12. [[45 - (Di) Mark of Secrets]]
+13. [[6 - Lucky Break]]
+14. [[14 - Columbine Ironfist]]
+15. [[20 - Johnathan Wellington]]
+16. [[28 - Anassanna]]
+17. [[34 - Alice Black]]
+18. [[46 - Adam Smith]]
   
