@@ -10,7 +10,7 @@ Spouse: N/A
 
 Other Associations: 
 
-Parents: 3&4. (Maxim, Sara) 
+Parents: [[4 - Maxim Elanor]], [[Sara Elanor]]
 
 Appearance: Wears a very nice and very thick brown fur coat that his father gave him. Wears fine gray clothing like his father as well. His blonde hair is short and groomed. Green eyes.
 

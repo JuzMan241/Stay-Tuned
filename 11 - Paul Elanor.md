@@ -6,7 +6,9 @@ Age: 9 Occupation: Child of Elanor Estate
 
 Spouse: 
 
-Other Associations: Child of 3&4 
+Other Associations: 
+
+Parents: [[4 - Maxim Elanor]], [[Sara Elanor]] 
 
 Appearance: Wears fine, tan clothes. Short blond hair with blue-green eyes.
 

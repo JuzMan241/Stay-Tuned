@@ -10,7 +10,7 @@ Spouse:
 
 Other Associations: 
 
-Parents: 6&7. (Aria and William) 
+Parents: [[6 - Aria Elanor]], [[7 - William Elanor]]
 
 Appearance: Melanie wears white silk robes that match her mother's. Brown eyes and long tied back dark-brown hair.
 

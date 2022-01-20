@@ -92,7 +92,7 @@ The trails outside are all lined with stylish tiki-torches, all about 20 ft apar
 
 #### Follower List 
 - [[Sebas Tien]] [(Google)](https://docs.google.com/document/d/1PMz2cV3N3Nbz5h0ehKqhqj6LAu-BMJU6PEZbCsM-PY8/edit#heading=h.fv95by6p4xky)
-- [[Aria Elanor]] [(Google)](https://docs.google.com/document/d/1PMz2cV3N3Nbz5h0ehKqhqj6LAu-BMJU6PEZbCsM-PY8/edit#heading=h.ccqrcn6ojca1)
+- [[6 - Aria Elanor]] [(Google)](https://docs.google.com/document/d/1PMz2cV3N3Nbz5h0ehKqhqj6LAu-BMJU6PEZbCsM-PY8/edit#heading=h.ccqrcn6ojca1)
 - [[Sara Elanor]]
 
 ### The Elanor Estate Family
@@ -102,7 +102,7 @@ The trails outside are all lined with stylish tiki-torches, all about 20 ft apar
 #### Generation 2
 - [[Sara Elanor]]
 - [[4 - Maxim Elanor]]
-- [[5 - Annnabell Elanor]]
+- [[5 - Annabell Elanor]]
 - [[6 - Aria Elanor]]
 - [[7 - William Elanor]]
 #### Generation 3 

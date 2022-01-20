@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c832516d58de6bb8",
+        "id": "b696d6b9fc2e9dc1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dance at Death's Door.md",
-            "mode": "preview"
+            "file": "6 - Aria Elanor.md",
+            "mode": "source"
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dance at Death's Door.md",
+                "file": "6 - Aria Elanor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dance at Death's Door.md"
+                "file": "6 - Aria Elanor.md"
               }
             }
           }
@@ -114,17 +114,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c832516d58de6bb8",
+  "active": "b696d6b9fc2e9dc1",
   "lastOpenFiles": [
+    "6 - Aria Elanor.md",
+    "Aria Elanor.md",
+    "14 - Travis Elanor.md",
+    "13 - Madeline Elanor.md",
+    "12 - Melanie Elanor.md",
     "Dance at Death's Door.md",
-    "The Elanor Estate.md",
-    "Sara Elanor.md",
+    "8 - Kevin (Junior) Elanor.md",
     "4 - Maxim Elanor.md",
-    "3 - Sara Elanor.md",
-    "1 - Robert Elanor.md",
-    "2 - Amy Elanor.md",
-    "The Barracks.md",
-    "The Range.md",
-    "The Gazebos.md"
+    "11 - Paul Elanor.md",
+    "10 - Callum Elanor.md"
   ]
 }

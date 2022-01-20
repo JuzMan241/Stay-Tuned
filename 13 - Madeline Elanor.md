@@ -8,7 +8,7 @@ Occupation: Child of the Elanor Family.
 
 Spouse: Other 
 
-Associations: Child of 6&7. 
+Associations: [[6 - Aria Elanor]], [[7 - William Elanor]]
 
 Appearance: Wears white silk robes that match her sister's. Brown eyes and braided dark-brown hair.
 
