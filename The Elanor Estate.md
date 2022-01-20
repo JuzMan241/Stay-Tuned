@@ -51,4 +51,4 @@
 
 ![](https://lh3.googleusercontent.com/eNzhBwbE_bxj7Fgdd_7_KX5Gwz7NG7GWbQTN38Ujj6ZT102i5oyBO5dpUcRXGHzBS6dAKnetxsTLQ4i2tcBJNByKHCN58yv-RIfuNa90hV4PAQFpWh6hk2vD4tBNCMD3aavwze8Z)
 
-## Related: [[Dance at Death's Door]]
+## Related: [[Dance at Death's Door#Estate Overview|Estate Overview]]

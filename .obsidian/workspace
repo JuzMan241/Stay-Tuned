@@ -7,11 +7,8 @@
         "id": "b696d6b9fc2e9dc1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "6 - Aria Elanor.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Aria Elanor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6 - Aria Elanor.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -116,15 +110,15 @@
   },
   "active": "b696d6b9fc2e9dc1",
   "lastOpenFiles": [
+    "The Elanor Estate.md",
+    "Dance at Death's Door.md",
+    "Sebas Tien.md",
     "6 - Aria Elanor.md",
+    "7 - William Elanor.md",
     "Aria Elanor.md",
     "14 - Travis Elanor.md",
     "13 - Madeline Elanor.md",
     "12 - Melanie Elanor.md",
-    "Dance at Death's Door.md",
-    "8 - Kevin (Junior) Elanor.md",
-    "4 - Maxim Elanor.md",
-    "11 - Paul Elanor.md",
-    "10 - Callum Elanor.md"
+    "8 - Kevin (Junior) Elanor.md"
   ]
 }

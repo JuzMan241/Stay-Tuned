@@ -1,4 +1,7 @@
-##### Sebas Tien
+# Sebas Tien
+---
+
+## Stat Block
 
 STR-15 
 
@@ -29,15 +32,15 @@ Throwing Knives - +5 to hit, 1d4+3 Piercing Damage
 Loot:
 
   
+---
 
-
-### 15 - Sebas Tien
+## Biography
 
 Gender: ♂
 
 Age: 
 
-Occupation: Head butler for the Elanor Estate.
+Occupation: Head butler for the [[The Elanor Estate]].
 
 Spouse: 
 

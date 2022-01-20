@@ -1,26 +1,7 @@
 # Aria Elanor
 ---
 
-#
-
-Gender: ♀
-
-Age: 28 
-
-Occupation: Full time scholar and manager of the estate's books. 
-
-Spouse: [[7 - William Elanor]]
-
-Other Associations: Good friends with [[5 - Annabell Elanor|Annabell]]. Attends and helps run [[2 - Amy Elanor|Amy]]'s book club. 
-
-Children: [[12 - Melanie Elanor]], [[13 - Madeline Elanor]], & [[14 - Travis Elanor]]. 
-
-Appearance: Wears a simple white dress paired with a white fur cloak. Wears a few ornate silver necklaces. Her brown hair is in a ponytail and also swept to the right. Brown eyes.
-
-  
-
-
-##### Aria Elanor
+ ## Stat Block
 
 STR-10 
 
@@ -74,4 +55,23 @@ Loot:
 
 50 gp blue diamond that she wears on her cloak.
 
+ ---
+
+## Biography
+
+Gender: ♀
+
+Age: 28 
+
+Occupation: Full time scholar and manager of the estate's books. 
+
+Spouse: [[7 - William Elanor]]
+
+Other Associations: Good friends with [[5 - Annabell Elanor|Annabell]]. Attends and helps run [[2 - Amy Elanor|Amy]]'s book club. 
+
+Children: [[12 - Melanie Elanor]], [[13 - Madeline Elanor]], & [[14 - Travis Elanor]]. 
+
+Appearance: Wears a simple white dress paired with a white fur cloak. Wears a few ornate silver necklaces. Her brown hair is in a ponytail and also swept to the right. Brown eyes.
+
+ ---
  
