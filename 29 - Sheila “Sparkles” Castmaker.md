@@ -8,6 +8,8 @@ Human
 
 ♀ - 83,8,24
 
+Room: [[Room 5C]]
+
 Small childlike human who wears green wizard's robes and a tall wizard's hat. She carries a spellbook with spells written neatly in draconic, and has large round glasses. Sheila always likes to smile no matter the circumstance.
 
   

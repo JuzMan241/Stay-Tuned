@@ -2,7 +2,7 @@
 
 ### Intro 
 
-Sparkles is a very short story with a very limited time for completion, in which Sheila "Sparkles" Castmaker needs help finding all of the cats.
+Sparkles is a very short story with a very limited time for completion, in which [[29 - Sheila “Sparkles” Castmaker]] needs help finding all of the cats.
 
   
 
