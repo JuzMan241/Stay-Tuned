@@ -20,7 +20,7 @@ Fun loving and energetic. Teresa wants to travel the world and learn about its w
 
 Teresa believes it's her job to protecc the party, but often gets sidetracked by Iorgar and her own curiosity.
 
-  
+Related: [[2 - Iorgar]], [[3 - Sykkuno]]
 
 Quest(s): 
 

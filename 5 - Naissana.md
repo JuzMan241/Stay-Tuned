@@ -16,7 +16,7 @@ Will only speak if no one else is talking. She is rather opinionated and is not 
 
 Holds grudges against rude people.
 
-  
+Related: [[28 - Anassanna]]
 
 Quest(s):
 
