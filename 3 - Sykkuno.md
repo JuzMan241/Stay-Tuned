@@ -14,7 +14,7 @@ Somewhat shy and very agreeable, but likes to spend time with interesting people
 
 Was convinced to come to the party by Iorgar and intends to protect/watch over his party members very carefully during the party.
 
-Related: [[1 - Teresa Pei]][[2 - Iorgar]]
+Related: [[1 - Teresa Pei]], [[2 - Iorgar]]
 
 Quest(s):
 
