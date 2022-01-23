@@ -48,15 +48,15 @@ Although their army is one of the greatest in the world, Savia's forces are stre
 
 ### Places in Bagus
 
--   #### Retoria
+-   #### [[Retoria]]
     
--   #### Cancovo
+-   #### [[Cancovo]]
     
--   #### Cantia
+-   #### [[Cantia]]
     
--   #### Elliaquentia and Auliobrie
+-   #### [[Elliaquentia and Auliobrie]]
     
--   #### Accospenovi
+-   #### [[Accospenovi]]
     
 
   
@@ -112,16 +112,7 @@ So, for some reason or another, each of the players receive their letter. Each l
 
 ### For reference, the recipients numbers and character names are here:
 
-ROB/Isaac - #51, Adock Spent 
-
-Johnny - #47, Curiosity 
-
-Das/Danny - #40, Sanni Broodfist 
-
-P!xel/Michael - #26, Turtle-Tot 
-
-Robodude/Alex - #17, Qeldo
-
+- [[The Player’s Rooms (Legacy)]]
   
 
 ### The Ticket
@@ -130,7 +121,7 @@ On the front of the red ticket, bold print spells "Travis' Transport" above the 
 
   
 
-Most of the characters should be familiar with Travis' Inn and Travels, as it is a fairly large Bagus-based business that runs in virtually every town here. This may add to the credibility of the letter, which could be useful for enticing players to follow the letter. Unfortunately, this section is rather railroaded, but some convincing should get the players on the right track. When the players choose to head to the closest location, their travels go without encounters. The trek there is peaceful and rather uneventful.
+Most of the characters should be familiar with Travis' Inn and Travels, as it is a fairly large Retoria-based business that runs in virtually every town here. This may add to the credibility of the letter, which could be useful for enticing players to follow the letter. Unfortunately, this section is rather railroaded, but some convincing should get the players on the right track. When the players choose to head to the closest location, their travels go without encounters. The trek there is peaceful and rather uneventful.
 
   
 
