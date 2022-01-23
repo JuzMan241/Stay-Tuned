@@ -14,7 +14,7 @@ All black clothing. Wears a hooded cloak covering a belt strewn with daggers. Th
 
 Has a good moral compass and violently upholds that moral compass; rather conceited. Is most honest with people he doesn't know, as he is scared of hurting anyone close to him.
 
-  
+Related: [[12 - Yuno]]
 
 Quest(s):
 

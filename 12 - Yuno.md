@@ -16,7 +16,7 @@ Follows Unlucky like a bad omen. Absolute fan-girl/borderline yandere. Enjoys he
 
 Only knows Sylvan and Aquan.
 
-  
+Related: [[13 - Unlucky]]
 
 Quest(s):
 
