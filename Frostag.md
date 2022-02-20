@@ -42,6 +42,8 @@ A magical variant of the elk, remarkable for its ability to shape the weave onto
 
 ***Buck.*** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 3) bludgeoning damage.
 
+***Winter's Embrace*** _Unique Spell:_ The frostag gains an icy shield of 8 temporary hitpoints. The hitpoints last until the beggining of it's next turn and take doubl 
+
 ---
 
 **Environment:** 
