@@ -19,7 +19,7 @@ A magical variant of the wolf, remarkable for its ability to shape the weave int
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 | ------- | ------- | ------- | ------ | ------- | ------ |
-| 12 (+1) | 15 (+2) | 12 (+1) | 3 (-4) | 12 (+1) | 6 (-2) |
+| 12 (+1) | 16 (+3) | 12 (+1) | 3 (-4) | 12 (+1) | 6 (-2) |
 
 ---
 
@@ -48,8 +48,8 @@ A magical variant of the wolf, remarkable for its ability to shape the weave int
 ## Actions
 ---
 
-***Bite.*** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked [prone](https://5e.tools/conditionsdiseases.html#prone_phb).
+***Bite.*** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked [prone](https://5e.tools/conditionsdiseases.html#prone_phb).
 
 ---
 
-**Environment:** Forest, Grassland, Hill
+**Environment:** Forest, Hill, Mountains, Tundra
