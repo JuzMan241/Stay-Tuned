@@ -11,7 +11,7 @@ A magical variant of the wolf, remarkable for its ability to shape the weave int
 
 **Armor Class** 14 (natural armor)
 
-**Hit Points** 16 (3d8 + 2)
+**Hit Points** 12 (2d8 + 3)
 
 **Speed** 40 ft.
 
@@ -48,7 +48,7 @@ A magical variant of the wolf, remarkable for its ability to shape the weave int
 ## Actions
 ---
 
-***Bite.*** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked [prone](https://5e.tools/conditionsdiseases.html#prone_phb).
+***Bite.*** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked [prone](https://5e.tools/conditionsdiseases.html#prone_phb).
 
 ---
 
