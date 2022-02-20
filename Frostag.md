@@ -1,4 +1,3 @@
-![Token Image: Winter Wolf](https://5e.tools/img/MM/Winter%20Wolf.png)
 
 # Frostag
 *Large beast, unaligned*
@@ -41,7 +40,7 @@ A magical variant of the elk, remarkable for its ability to shape the weave onto
 ---
 ***Ram.*** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage.
 
-***Hooves.*** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one [prone](https://5e.tools/conditionsdiseases.html#prone_phb) creature. _Hit:_ 8 (2d4 + 3) bludgeoning damage.
+***Buck.*** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 3) bludgeoning damage.
 
 ---
 
