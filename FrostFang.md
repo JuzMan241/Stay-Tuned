@@ -25,6 +25,10 @@ A magical variant of the wolf, remarkable for its ability to shape the weave int
 
 **Skills** Perception +3, Stealth +4
 
+**Damage Resistances** cold
+
+**Damage Vulnerabilities** fire
+
 **Senses** passive Perception 13
 
 **Languages** —
@@ -39,7 +43,7 @@ A magical variant of the wolf, remarkable for its ability to shape the weave int
 
 ***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't [incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_phb).
 
-***Icy Maw.*** Whenever the frostfang hits an attack, add a d4 of cold damage to the damage.
+***Icy Maw.*** Whenever the frostfang hits an attack, add a d4 of cold damage.
 
 ## Actions
 ---
