@@ -33,7 +33,7 @@ A magical variant of the elk, remarkable for its ability to shape the weave onto
 
 ---
 
-***Charge.*** If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked back 5 feet and [prone](https://5e.tools/conditionsdiseases.html#prone_phb).
+***Charge.*** If the frostag moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked back [prone](https://5e.tools/conditionsdiseases.html#prone_phb). The frostag must take an extra 20 feet of movement to stop or it falls [prone](https://5e.tools/conditionsdiseases.html#prone_phb).
 
 ## Actions
 ---
