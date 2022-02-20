@@ -39,11 +39,13 @@ A magical variant of the wolf, remarkable for its ability to shape the weave int
 
 ---
 
-***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The frostfang has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't [incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_phb).
+***Pack Tactics.*** The frostfang has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't [incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_phb).
 
-***Icy Maw.*** Whenever the frostfang hits an attack, add a d4 of cold damage.
+***Icy Maw.*** Whenever the frostfang takes the bite action, it can add a d4 to the damage dealt.
+
+***Frosty Defence.*** Once per day, the wolf can spend a reaction to an attack to coat itself in an icy defence. This defence gives it 3 temporary hit points, which damage the attacker if they are in melee range for a damage equal to the temporary hit points consumed. The temporary hit points last until the next round, and are instantly dispelled by fire damage without dealing returning damage.
 
 ## Actions
 ---
