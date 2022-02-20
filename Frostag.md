@@ -1,4 +1,7 @@
 
+
+![Frozen - Fantasy &amp; Abstract Background Wallpapers on Desktop Nexus (Image  2386976)](https://cache.desktopnexus.com/thumbseg/2386/2386976-bigthumbnail.jpg)
+
 # Frostag
 *Large beast, unaligned*
 
@@ -42,8 +45,8 @@ A magical variant of the elk, remarkable for its ability to shape the weave onto
 
 ***Buck.*** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 3) bludgeoning damage.
 
-***Winter's Embrace*** _Unique Spell:_ The frostag gains an icy shield of 8 temporary hitpoints. The hitpoints last until the beggining of it's next turn and take doubl 
+***Winter's Embrace.*** _Unique Spell:_ The frostag gains an icy shield of 8 temporary hitpoints. The hitpoints last until the beggining of it's next turn and take double fire damage.
 
 ---
 
-**Environment:** 
+**Environment:** Forest, Hill, Mountains, Tundra
