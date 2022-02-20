@@ -5,11 +5,11 @@
 
 ---
 
-A magical variant of the elk, remarkable for its ability to shape the weave into icy daggers that coat its teeth and claws when it attacks.
+A magical variant of the elk, remarkable for its ability to shape the weave onto it's horns and form a magical defence.
 
 ---
 
-**Armor Class** 14 (natural armor)
+**Armor Class** 13 (natural armor)
 
 **Hit Points** 12 (2d8 + 3)
 
@@ -44,6 +44,8 @@ A magical variant of the elk, remarkable for its ability to shape the weave into
 ***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't [incapacitated](https://5e.tools/conditionsdiseases.html#incapacitated_phb).
 
 ***Icy Maw.*** Whenever the frostfang hits an attack, add a d4 of cold damage.
+
+***Frosty Defence.*** Once per day, the wolf can spend a reaction to an attack to coat itself in an icy defence. This defence gives it 3 temporary hit points, which damage the attacker if they are in melee range per temporary hit point consumed. The temporary hit points last until the next round, and are instantly dispelled by fire damage without dealing returning damage.
 
 ## Actions
 ---
