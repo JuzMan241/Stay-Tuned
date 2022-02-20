@@ -11,9 +11,9 @@ A magical variant of the elk, remarkable for its ability to shape the weave onto
 
 **Armor Class** 10 
 
-**Hit Points** 13 (3d10 + 2)
+**Hit Points** 21 (3d10 + 4)
 
-**Speed** 40 ft.
+**Speed** 50 ft.
 
 ---
 
@@ -33,7 +33,7 @@ A magical variant of the elk, remarkable for its ability to shape the weave onto
 
 ---
 
-
+***Charge.*** If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked back 5 feet and [prone](https://5e.tools/conditionsdiseases.html#prone_phb).
 
 ## Actions
 ---
