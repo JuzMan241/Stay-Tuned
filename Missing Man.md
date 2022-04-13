@@ -48,8 +48,8 @@ Milo's method of search is very flexible depending on how the conversation goes.
 ###  Rewards:
 
 1.  Milo would give the players her glamourweave cloak as thanks.
-    
 2.  Milo is inclined to help anyone involved in the future, and is willing to give them one favor.
+3.  All involved players gain 50 exp for helping.
     
 
   
