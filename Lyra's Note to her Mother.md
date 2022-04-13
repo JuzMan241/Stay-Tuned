@@ -1,4 +1,4 @@
-Dear Mother 
+Dear Mother,
 
 I hope this letter finds you and Da in good health. It has been a while since I have been somewhere long enough to write, and I'm sorry I haven't been able to sooner. Just know that I'm safe. 
 
@@ -10,5 +10,5 @@ The people here seem nice so far. Given the trade that runs through town, they m
 
 In short, I am far from home, and I'm alright. Give my best wishes to Da and Henry, and give Lilly a belly rub for me when you can, to let her know I miss her 
 
-Love 
+Love,
 Lyra
