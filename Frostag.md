@@ -39,8 +39,10 @@ A magical variant of the elk, remarkable for its ability to shape the weave onto
 
 ***Defensive Stance.*** If the frostag has yet to move last turn, it can use it's reaction to counterattack against an enemy attack if they are in melee range with it's ram attack. This attack deals an extra 5 (1d10) cold damage, the creature is knocked back 5ft (without provoking opportunity attacks) and the creature must make a DC 13 Strength saving throw, or they are knocked [prone](https://5e.tools/conditionsdiseases.html#prone_phb).
 
-## Actions
 ---
+
+## Actions
+
 ***Ram.*** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage.
 
 ***Buck.*** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 3) bludgeoning damage.

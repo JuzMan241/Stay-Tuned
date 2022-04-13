@@ -36,3 +36,4 @@
 
 ## Excessive Details
 - ### [[Native Lexicon of Northern Savia]]
+- ### [[Beastiary]]
