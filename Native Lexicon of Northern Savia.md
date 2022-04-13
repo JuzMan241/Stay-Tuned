@@ -49,11 +49,11 @@
     
 -   Statio Retoria *(Station upon the mountain plateau, after the pantheon was abolished)*
     
--   Civitas Retoria (Over time, it became a larger town and eventually city)
+-   Civitas Retoria *(Over time, it became a larger town and eventually city)*
     
--   Retoria City (The country unified, and a ton of major cities were renamed to fit the changing language)
+-   Retoria City *(The country unified, and a ton of major cities were renamed to fit the changing language)*
     
--   Retoria (The City part was eventually dropped, simply becoming Retoria, which literally means upon the mountain plateau)
+-   Retoria *(The City part was eventually dropped, simply becoming Retoria, which literally means upon the mountain plateau)*
     
 
   

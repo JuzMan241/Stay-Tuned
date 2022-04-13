@@ -33,7 +33,9 @@
 ## Prominent Places
 - ### [[The Elanor Estate]] [(Google)](https://docs.google.com/document/d/1UChJraCjcgd7qAyQy-qsnKn7lA0h5G1VFZi2mBFq6rc/edit?usp=sharing)
 - ### [[Traveling Locations]] [(Google)](https://docs.google.com/document/d/1PgxDdxA_Jy72_h9hcSmLA65tpG2_dbtqcukGCcORu9U/edit?usp=sharing)
+- ### [[Cities of Savia]]
 
 ## Excessive Details
 - ### [[Native Lexicon of Northern Savia]]
 - ### [[Beastiary]]
+- ### [[Savian History]]
