@@ -30,9 +30,13 @@ _Medium Undead, Neutral Evil_
 
 ---
 
-**Symbiote Strength.** The Creature's strength score is always equal to it's current health.
-**Frenzy. (3/3)** The creature can regain 1d6+3 temporary hitpoints for 12 hours by expending a charge of frenzy as a bonus action. The creature can have up to three charges stored at any time. Devouring the head of a dead humanoid regains one charge of frenzy.
-**Hunger.** This creature cannot regain hitpoints from long reWhenever this creature performs a long rest, all remaining temporary hit points become remaining HP. If the creatures has zero charges of frenzy during it's long rest, the creature loses 1d6+3 hitpoints.
+**Symbiote Strength.** The Creature's strength score is always equal to it's current health (Hit points + Temporary HP).
+
+**Frenzy, (3/3).** The creature can gain 1d6+3 temporary hitpoints for 12 hours by expending a charge of frenzy as a bonus action. The creature can have up to three charges stored at any time. Devouring the head of a dead humanoid regains one charge of frenzy.
+
+**Hunger.** This creature cannot regain hitpoints from long or short rests. Whenever this creature performs a long rest, all remaining temporary hit points heal the creature in HP. If the creatures has zero charges of frenzy during it's long rest, the creature loses 1d6+3 hitpoints instead of healing. If it drops below zero health this way, the creature dies.
+
+**Infectious.** Humanoids killed or devoured by the Walking Dead will turn into a new walking dead with 0 charges of frenzy in 24 hours, unless the body is burned or completely destroyed.
 
 ---
 
