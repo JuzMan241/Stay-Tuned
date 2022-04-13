@@ -37,5 +37,5 @@
 
 ## Excessive Details
 - ### [[Native Lexicon of Northern Savia]]
-- ### [[Beastiary]]
 - ### [[Savian History]]
+- ### [[Beastiary]]
