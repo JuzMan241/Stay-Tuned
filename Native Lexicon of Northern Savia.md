@@ -7,7 +7,6 @@
 ### Geographical / Important Features
 
 
-
 | Feature in English    | Feature in Old Savian |
 | --------------------- | --------------------- |
 | Plateau on a Mountain | Retor                 |
@@ -31,9 +30,9 @@
 | ------------------------- | ------------------ |
 | Twin                      | Geminae            |
 | North                     | Aquilonem          |
-| South                     | Merdianam          |
+| South                     | Meridianam         |
 | Of the                    | Ia                 |
-| On top of / Above         | Aspura             |
+| On top of / Above         | Asupra             |
 | Across / Over             | Etrans             |
 | People                    | Populus            |
 | Fork (splitting 1 into 2) | Trivium            | 
@@ -46,9 +45,9 @@
 
 ### Retoria
 
--   Statio Stellaeia Retorasupra (Stellar outpost upon the mountain plateau)
+-   Statio Stellaeia Retorasupra *(Stellar outpost upon the mountain plateau)*
     
--   Statio Retoria (Station upon the mountain plateau, after the pantheon was abolished)
+-   Statio Retoria *(Station upon the mountain plateau, after the pantheon was abolished)*
     
 -   Civitas Retoria (Over time, it became a larger town and eventually city)
     
