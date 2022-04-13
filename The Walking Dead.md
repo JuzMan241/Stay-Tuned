@@ -31,7 +31,7 @@ _Medium Undead, Neutral Evil_
 ---
 
 **Symbiote Strength.** The Creature's strength score is always equal to it's current health.
-
+**Frenzy. (3/3)** The creature can regain 1d8+3 health by expending a charge of frenzy as a bonus action. The creature can have up to three charges stored at any time. Devouring the head of a creature
 
 ---
 
