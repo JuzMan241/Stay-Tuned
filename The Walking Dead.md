@@ -9,15 +9,13 @@ _Medium Undead, Neutral Evil_
 
 ---
 
-| STR     | DEX         | CON         | INT         | WIS         | CHA         |
-| ------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 18 (+4) | score (mod) | score (mod) | score (mod) | score (mod) | score (mod) |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 10 (+0) | 16 (+3) | 1 (-5) | 14 (+2) | 6 (-2) |
 
 ---
 
-**Saving Throws:** 
-
-**Damage Immunities:** 
+**Saving Throws:** Dex +2, Wis +4
 
 **Condition Immunities:** poisoned
 
@@ -25,11 +23,9 @@ _Medium Undead, Neutral Evil_
 
 **Damage Vulnerabilities:** fire
 
-**Senses:** 
+**Senses:** blindsight 15ft, passive perception 8
 
-**Languages:** 
-
-**Challenge Rating:** 
+**Challenge Rating:** 1
 
 ---
 
