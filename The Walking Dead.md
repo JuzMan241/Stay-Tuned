@@ -42,7 +42,9 @@ _Medium Undead, Neutral Evil_
 
 ## Actions
 
-**Action1.** Description
+**Multitattack.** The Walking dead makes two attack with it's overgrown claws.
+
+**Overgrown Claws.** Melee Weapon Attack: +5 to hit, reach 5ft, one target. Hit: 4 1d6+3
 
 ---
 
