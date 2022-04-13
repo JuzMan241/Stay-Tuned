@@ -26,7 +26,7 @@ _Medium Undead, Neutral Evil_
 
 **Senses:** blindsight 15ft, passive perception 8
 
-**Challenge Rating:** 1
+**Challenge Rating:** 2
 
 ---
 
