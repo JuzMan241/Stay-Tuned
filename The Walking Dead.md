@@ -44,7 +44,9 @@ _Medium Undead, Neutral Evil_
 
 **Multitattack.** The Walking dead makes two attack with it's overgrown claws.
 
-**Overgrown Claws.** Melee Weapon Attack: +5 to hit, reach 5ft, one target. Hit: 4 1d6+3
+**Overgrown Claws.** *Melee Weapon Attack:* +(STRmod+2) to hit, reach 5ft, one target. Hit: 6 (1d6+STRmod) slashing damage. 
+
+**Devour.** *Melee Weapon Attack:* +(STRmod+2) to hit, reach 5ft, one target. Hit: 8 (1d10+STRmod) piercing damage. The target must make a DC (8+STRmod) strength saving throw or it is grappled. Every turn the target may repeat the check to free itself. The Walking Dead can only perfrom this attack if it is not already grappling a creature.
 
 ---
 
