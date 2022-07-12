@@ -45,7 +45,7 @@ A magical variant of the wolf, remarkable for its ability to shape the weave int
 
 ***Icy Maw.*** Whenever the frostfang takes the bite action, it can add a 5 (d8) to the damage dealt.
 
-***Frosty Defence.*** Once per day, the wolf can spend a reaction to an attack to coat itself in an icy defence. This defence gives it 3 temporary hit points, which damage the attacker if they are in melee range for a damage equal to the temporary hit points consumed. The temporary hit points last until the next round, and are instantly dispelled by fire damage without dealing returning damage.
+***Frosty Defence.*** Once per day, the wolf can spend a reaction if hit by an attack to coat itself in an icy defence. This defence gives it 3 temporary hit points, which damage the attacker if they are in melee range for a damage equal to the temporary hit points consumed. The temporary hit points last until the next round, and are instantly dispelled by fire damage without dealing returning damage.
 
 ## Actions
 ---

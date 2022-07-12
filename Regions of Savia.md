@@ -1,6 +1,10 @@
 # Regions of Savia
 ---
 
-## Northern Savia
+## [[Northern Savia]]
 
-## Western 
+## [[Western Savia]]
+
+## [[Eastern Savia]]
+
+## [[Southern Savia]]
