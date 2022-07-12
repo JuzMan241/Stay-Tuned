@@ -38,4 +38,5 @@
 ## Excessive Details
 - ### [[Native Lexicon of Northern Savia]]
 - ### [[Savian History]]
+- ### [[Regions of Savia]]
 - ### [[Beastiary]]
