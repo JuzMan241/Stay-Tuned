@@ -1,4 +1,3 @@
-![[Pasted image 20220413155003.png]]
 # Walking Dead
 _Medium Undead, Neutral Evil_
 
