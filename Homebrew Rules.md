@@ -13,3 +13,9 @@ B. The overlapping proficiency can stay as a proficiency, and the player can cho
 ## Temporary HP Overlapping
 Instead of temporary HP being replaced by any new amount, temporary HP can be added onto, up to a maximum of twice the added amount.
 For example, if a character with 7 THP recieves an additional 5 THP, their new maximum is 10 THP and would this recieve 3 THP, bringing them to 10.
+
+## Custom Critical Hit Homebrew
+Critical hits when triggered give the player their normal damage roll, in addition to one maximum set of any dice rolled for their damage.
+> A greatsword dealing 2d8+4 damage on a normal hit would deal 2d8+4+16 damage on a crit.
+
+Extra dice like sneak attack do not get this treatment, only dice directly affected by the weapon.
