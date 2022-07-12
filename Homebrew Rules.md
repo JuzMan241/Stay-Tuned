@@ -12,4 +12,4 @@ B. The overlapping proficiency can stay as a proficiency, and the player can cho
 
 ## Temporary HP Overlapping
 Instead of temporary HP being replaced by any new amount, temporary HP can be added onto, up to a maximum of twice the added amount.
-For example, if a character with 7 THP recieves an additional 5 THP, their new maximum is 10 THP and would this recieve 1 THP, bringing them to 10.
+For example, if a character with 7 THP recieves an additional 5 THP, their new maximum is 10 THP and would this recieve 3 THP, bringing them to 10.
